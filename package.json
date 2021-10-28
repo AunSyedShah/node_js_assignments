@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AunSyedShah/node_js_assignments.git"
+  },
+  "author": "Syed Aun Muhammad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AunSyedShah/node_js_assignments/issues"
+  },
+  "homepage": "https://github.com/AunSyedShah/node_js_assignments#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
